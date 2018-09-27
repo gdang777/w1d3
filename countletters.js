@@ -6,4 +6,4 @@ function count (string) {
   });
   return count;
 }
-console.log(count("lighthouse labs in the house"))
+console.log(count("lighthouse in the house"))
